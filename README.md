@@ -23,7 +23,7 @@ You should now be able to view the application at [localhost:9292](http://localh
 
 More complex shotgun launch example
 
-`RACK_ENV=production shotgun -o 10.4.1.150 config.ru`
+`RACK_ENV=production shotgun -o 0.0.0.0 config.ru`
 
 You can also run it with shotgun at [localhost:9393](http://localhost:9393).
 
