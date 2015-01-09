@@ -2,7 +2,7 @@
 <img src="public/img/cif-alt.jpg">
 </p>
 
-CIF-ALT_API
+CIF-ALT-API
 ==============
 
 This is a webapp and webapi that fronts the CIFs database format. It also provides a tunning aspect that allows other services to adjust confidence levels.
